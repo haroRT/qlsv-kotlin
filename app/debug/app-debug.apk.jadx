@@ -1,0 +1,128 @@
+{
+  "projectVersion": 2,
+  "files": [
+    "app-debug.apk"
+  ],
+  "treeExpansionsV2": [
+    "p:com.kma.qlsv.repository.auth",
+    "p:com.kma.qlsv.di",
+    "p:com.kma.qlsv.data"
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [
+    {
+      "type": "class",
+      "tabPath": "com.kma.qlsv.App",
+      "subPath": "java",
+      "caret": 630,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.kma.qlsv.MainActivity",
+      "subPath": "java",
+      "caret": 1381,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.kma.qlsv.di.AppModule",
+      "subPath": "java",
+      "caret": 1725,
+      "view": {
+        "x": 0,
+        "y": 212
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.kma.qlsv.DaggerApp_HiltComponents_SingletonC",
+      "subPath": "java",
+      "caret": 5927,
+      "view": {
+        "x": 0,
+        "y": 976
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.kma.qlsv.data.ClassModel",
+      "subPath": "java",
+      "caret": 2949,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.kma.qlsv.repository.auth.AuthRepository",
+      "subPath": "java",
+      "caret": 3180,
+      "view": {
+        "x": 0,
+        "y": 885
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.kma.qlsv.repository.auth.AuthRepository$login$1",
+      "subPath": "java",
+      "caret": 1491,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": true,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    }
+  ],
+  "cacheDir": "/Users/haro/Library/Caches/io.github.skylot.jadx/projects/app-debug-92ce45c4f905b32ee90f9b0fc9213792",
+  "enableLiveReload": false,
+  "searchHistory": [],
+  "searchResourcesFilter": "*",
+  "searchResourcesSizeLimit": 0,
+  "pluginOptions": {}
+}
